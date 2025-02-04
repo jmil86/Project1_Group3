@@ -12,6 +12,10 @@ Question 2
 
 Analysis - See Chart titled "Types of Crimes per Top 10 Zip Codes"
     This chart shows the total number of crimes in the ten zip codes with the most crime.  The biggest takeaway is that zip code 85015 stands out as having a significantly higher number of crimes compared to all other zip codes in the top 10.  There's a substantial drop in crime between 85015 and the next highest, 85008, emphasizing the outlier status of 85015.  After this initial drop, the decrease in crime numbers across the remaining zip codes is more gradual. This suggests 85015 has a crime concentration, likely due to socioeconomic factors and policing strategies. However, the chart only looks at the top ten worst areas and doesn't consider population size.
+     
+
+    Link to PowerPoint Slideshow
+     https://1drv.ms/p/c/637423b2e57493b7/EY_ltTVwYGZKhcTx5LLsxrkBUWqzBD0JBKazlsT27muVgQ?e=PAeykx
 
 
 
