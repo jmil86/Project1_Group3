@@ -10,4 +10,4 @@ Within the top premise types, the top 5 crime categories are listed. While the #
 
 3. For the top crime categories, when do they trend to happen?
 
-For crime catergories (over 5%), they tend to happen more in the morning around 7am, corresponding to Larceny theft and motor vehicle theft/burglary.
+For crime categories (over 5%), they tend to happen more in the morning around 7am, corresponding to Larceny theft and motor vehicle theft/burglary.
