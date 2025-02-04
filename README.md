@@ -7,3 +7,7 @@ For premise types, there are total number of 98 types that had crime happened. W
 2. Is there any commonality within each top premise type?
 
 Within the top premise types, the top 5 crime categories are listed. While the #2-#5 crime varies by premise type and location based, the top crime category for each premise type is always larceny-theft. This is a universal crime category happening across all premise types, matching to the bulk crime category analysis.
+
+3. For the top crime categories, when do they trend to happen?
+
+For crime catergories (over 5%), they tend to happen more in the morning around 7am, corresponding to Larceny theft and motor vehicle theft/burglary.
