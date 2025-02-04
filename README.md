@@ -1,5 +1,6 @@
 # Project1_Group3
 
+
 Qustion 1
      What are the top 10 zip codes in the greater Phoenix area with the highest crimes?
 
@@ -18,4 +19,16 @@ Analysis - See Chart titled "Types of Crimes per Top 10 Zip Codes"
      https://1drv.ms/p/c/637423b2e57493b7/EY_ltTVwYGZKhcTx5LLsxrkBUWqzBD0JBKazlsT27muVgQ?e=PAeykx
 
 
+Premise related analysis:
+1. What are the top premise types where crime happened most?
+
+For premise types, there are total number of 98 types that had crime happened. Within these, the top locations with more than 5% crime rates are: Single family house, apartment, parking lot, street/roadway/sidewalk, department/discount store. Overall, these are the residential areas (58.7% crime rates) and open space zones.
+
+2. Is there any commonality within each top premise type?
+
+Within the top premise types, the top 5 crime categories are listed. While the #2-#5 crime varies by premise type and location based, the top crime category for each premise type is always larceny-theft. This is a universal crime category happening across all premise types, matching to the bulk crime category analysis.
+
+3. For the top crime categories, when do they trend to happen?
+
+For crime categories (over 5%), they tend to happen more in the morning around 7am, corresponding to Larceny theft and motor vehicle theft/burglary.
 
