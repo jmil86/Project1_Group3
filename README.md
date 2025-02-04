@@ -8,7 +8,7 @@ Crime incidents are concentrated in a mix of residental, public and commercial l
 
 
 Question 2
-What are the top 10 crimes and where are they occuring?
+What are the 10 most common crimes and where are they happening?​
 The most frequest crimes that are occuring are Burglary, Larceny-Theft, and Motor Vehicle Theft. We see these happening most frequently in residental ares, parking lots, retail stores and vechicles. Overall we see that Burglary's at single-family homes is the most reported crime. 
 
 
@@ -20,7 +20,7 @@ Crime levels peak in the Phoenix area in 2017. They remained relatively high unt
 
 Question 4 
 What are the peak times for crimes to occur?
-We can see several peak times for crime throughout this chart. The first peak that we see is at midnight, then crime drops significantly until the early morning. Where we see another peak starting around 5 am. Then the most significant time of the day that we see crimes occurring is at 7 am. We see a steady decrease following this peak through the late morning and early afternoon. But see another peak starting again around 3 pm. After this last peak of the day crime rates generally decline into the later evening hours. The patterns we see here suggest that crime is influenced heavily on human activity levels. Peaking when most people are out during the rush hours of the day. 
+We can see several peak times for crime throughout this chart. The first peak that we see is at midnight, then crime drops significantly until the early morning. Where we see another peak starting around 6 am. Then the most significant time of the day that we see crimes occurring is at 7 am. We see a steady decrease following this peak through the late morning and early afternoon. But see another peak starting again around 3 pm. After this last peak of the day crime rates generally decline into the later evening hours. The patterns we see here suggest that crime is influenced heavily on human activity levels. Peaking when most people are out during the rush hours of the day. 
 
 
 
